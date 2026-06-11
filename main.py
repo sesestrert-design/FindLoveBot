@@ -396,7 +396,6 @@ class Bot(BaseBot):
 if __name__ == "__main__":
     room_id = "6894bd39e3e4a405517cb530"
     token = "e40e3f2d47d2f7106dbdba3c891ea6594342bd1eec047c8cd28b843ea4bacbb5"
-    arun(Bot().run(room_id, token))
-
-  
+    arun(Bot().run(room_id, token)
+البوت (اكتب واضغط Enter):
                         
